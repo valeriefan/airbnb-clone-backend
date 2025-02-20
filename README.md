@@ -21,6 +21,3 @@ Spring boot backend of the airbnb clone
 ### Launch
 #### Maven
 ``./mvnw spring-boot:run  -Dspring-boot.run.arguments="--AUTH0_CLIENT_ID=<client-id> --AUTH0_CLIENT_SECRET=<client-secret>"``
-
-#### IntelliJ
-Go in IntelliJ add the environment variables and then run it.
